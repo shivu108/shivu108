@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Creating Python code in Kannada
 - 📫 You can reach me on whatsappa at +919916688339
 - 😄 Pronouns: Shiv
-- ⚡ Fun fact: I used SQL, Python tool to create Resme :)
+- ⚡ Fun fact: I used SQL, Python tool to create Reusme :)
 
 <!---
 shivu108/shivu108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
