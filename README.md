@@ -2,7 +2,8 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Creating Python code in Kannada
-- 📫 You can reach me on whatsappa at +919916688339
+- 📫 You can reach me at +919916688339
+- 📫 Aratti app (https://play.google.com/store/apps/details?id=com.aratai.chat&hl=en_IN)
 - 😄 Pronouns: Shiv
 - ⚡ Fun fact: I used SQL, Python tool to create Reusme :)
 
